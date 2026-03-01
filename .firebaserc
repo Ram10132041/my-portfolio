@@ -1,6 +1,6 @@
 {
   "projects": {
-    "default": "resume-ram",
+    "default": "ramamoorthy-portfolio",
     "production": "ramamoorthy-portfolio"
   },
   "targets": {},
